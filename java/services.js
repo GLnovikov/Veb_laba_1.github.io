@@ -16,7 +16,7 @@ $(document).ready(function() {
     $('.about-button').on('click', function() {
         // Здесь вы можете добавить код для перехода на страницу "About" или выполнения других действий.
         // В данном случае, перейдем на страницу "About".
-        window.location.href = 'about.html';
+     window.location.href = '../html/about.html';
     });
 
     // Обработчик события клика на кнопку "Заказать оптом"
@@ -35,7 +35,7 @@ $(document).ready(function() {
     $('.read-reviews-button').on('click', function() {
         // Здесь вы можете добавить код для перехода на страницу с отзывами.
         // В данном случае, перейдем на страницу "Reviews".
-        window.location.href = 'reviews.html';
+        window.location.href = '../html/reviews.html';
     });
 
     // Добавьте другие обработчики событий для необходимых кнопок.
