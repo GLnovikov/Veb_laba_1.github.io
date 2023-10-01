@@ -1,3 +1,4 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 // Подключение к событию document.ready
 $(document).ready(function() {
     // Обработчик события клика на кнопку "Узнать больше о наших услугах"
